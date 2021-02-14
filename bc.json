@@ -210,7 +210,7 @@
         {
             "slug": "14-Your-first-switch",
             "title": "14-Your-first-switch",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Your-first-switch",
             "translations": [
                 "es",
