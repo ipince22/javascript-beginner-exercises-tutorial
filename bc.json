@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://teal-deer-v5cm28xq.ws-us03.gitpod.io",
+    "address": "https://amber-gazelle-tsgretn8.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -111,7 +111,7 @@
         {
             "slug": "05-User-inputed-variables",
             "title": "05-User-inputed-variables",
-            "done": false,
+            "done": true,
             "path": "exercises/05-User-inputed-variables",
             "translations": [
                 "es",
@@ -133,7 +133,7 @@
         {
             "slug": "07-String-concatenation",
             "title": "07-String-concatenation",
-            "done": false,
+            "done": true,
             "path": "exercises/07-String-concatenation",
             "translations": [
                 "es",
@@ -144,7 +144,7 @@
         {
             "slug": "08-Create-a-basic-HTML",
             "title": "08-Create-a-basic-HTML",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Create-a-basic-HTML",
             "translations": [
                 "es",
@@ -188,7 +188,7 @@
         {
             "slug": "12-Your-first-if",
             "title": "12-Your-first-if",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Your-first-if",
             "translations": [
                 "es",
@@ -199,7 +199,7 @@
         {
             "slug": "13-How-much-the-wedding-costs",
             "title": "13-How-much-the-wedding-costs",
-            "done": false,
+            "done": true,
             "path": "exercises/13-How-much-the-wedding-costs",
             "translations": [
                 "es",
