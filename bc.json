@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://peach-rabbit-23cg9a7j.ws-us03.gitpod.io",
+    "address": "https://cyan-finch-htm08j7a.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -243,7 +243,7 @@
         {
             "slug": "17-Your-first-loop",
             "title": "17-Your-first-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Your-first-loop",
             "translations": [
                 "es",
@@ -254,7 +254,7 @@
         {
             "slug": "18-Create-a-for-loop",
             "title": "18-Create-a-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Create-a-for-loop",
             "translations": [
                 "es",
@@ -265,7 +265,7 @@
         {
             "slug": "19-While-loop",
             "title": "19-While-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/19-While-loop",
             "translations": [
                 "es",
@@ -287,7 +287,7 @@
         {
             "slug": "21-Looping-with-FizzBuzz",
             "title": "21-Looping-with-FizzBuzz",
-            "done": false,
+            "done": true,
             "path": "exercises/21-Looping-with-FizzBuzz",
             "translations": [
                 "es",
