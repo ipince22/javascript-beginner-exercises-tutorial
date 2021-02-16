@@ -17,11 +17,25 @@ function getColor(colorNumber=0)
 }
 
 function getAllStudentColors(){
-	
-	//your loop here
-	var exampleColor = getColor(1);
+    //defino arreglo
+    var array= [];
+    //bucle recorre cantidad alumnos 10
+    for (let index = 1; index <=10; index++) {
+            //obtengo el color de manera aleatoria
+            let color = getColor(Math.floor(Math.random()*5));    
+            //defino un objeto: idalumno,color-asignado
+            let obj={
+                alumno: index,
+                color: color
+            }
+            //adiciono cada iteraccion un elemento al objeto
+            array.push(obj);
+        
+    }
+    //return array
+    console.log(array);
 }
 
-//call the function below with the number of students in the class and print on the console
+//call the function below with the number of students in the class and print on the 
 getAllStudentColors();
 
